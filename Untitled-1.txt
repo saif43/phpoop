@@ -1,0 +1,7 @@
+public is for all
+
+
+private is for you and your childs
+
+
+protected is only for you
